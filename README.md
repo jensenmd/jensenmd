@@ -1,3 +1,5 @@
+<img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/ae577a1f-7e2f-49a9-90fe-713659ce539d" />
+
 # Michael D. Jensen — Senior QA Engineer
 
 15+ years of enterprise software testing experience across healthcare IT, financial systems, telecommunications, and cybersecurity. Deep background in REST API validation, ETL pipeline testing, SQL-based data integrity verification, and full-stack manual testing in Agile environments.
