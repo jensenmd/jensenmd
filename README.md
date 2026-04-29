@@ -14,6 +14,7 @@ Currently re-entering the field with active focus on Python/pytest automation, P
 
 | Project | What It Demonstrates |
 |---|---|
+| [claude-code-qa-sessions](https://github.com/jensenmd/claude-code-qa-sessions) | Claude Code applied to existing QA repos — agentic analysis, human-in-the-loop validation |
 | [pharmacy-spend-etl-qa](https://github.com/jensenmd/pharmacy-spend-etl-qa) | ETL pipeline validation, SQL-driven data integrity testing |
 | [qa-automation-showcase](https://github.com/jensenmd/qa-automation-showcase) | REST API testing, data validation, CI/CD integration |
 | [restful-booker-qa](https://github.com/jensenmd/restful-booker-qa) | Full-stack layered testing — API + UI automation |
