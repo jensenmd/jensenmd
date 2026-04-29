@@ -1,4 +1,4 @@
-![GitHub Profile Banner](github-profile-banner.png)
+![GitHub Profile Banner](profile-banner-vAI.png)
 
 # Michael D. Jensen — Senior QA Engineer
 
