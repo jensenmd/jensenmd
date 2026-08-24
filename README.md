@@ -1,10 +1,8 @@
-![GitHub Profile Banner](profile-banner-vAI.png)
-
 # Michael D. Jensen — Senior QA Engineer
 
 15+ years of enterprise software quality experience across healthcare IT, financial systems, telecommunications, and cybersecurity. Deep background in REST API testing, ETL and data validation, SQL-driven verification, requirements analysis, exploratory testing, and end-to-end system quality.
 
-Currently building hands-on quality engineering projects with Python/pytest, Playwright, Postman/Newman, GitHub Actions, and AI-assisted QA workflows. My portfolio spans API automation, ETL/data validation, UI testing, agentic QA analysis, and black-box mobile/GPS investigation.
+Currently building hands-on quality engineering projects with Python/pytest, Playwright, Postman/Newman, GitHub Actions, and AI-assisted QA workflows. My portfolio spans API automation, ETL/data validation, UI testing, agentic QA analysis, structured LLM workflows, and black-box mobile/GPS investigation.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/michaeljensen-qa/) | 🐙 [GitHub Profile](https://github.com/jensenmd) | 📧 jensen.md@gmail.com
 
@@ -13,58 +11,74 @@ Currently building hands-on quality engineering projects with Python/pytest, Pla
 ## Portfolio Projects
 
 | Project | What It Demonstrates |
-|---|---|
-| [claude-code-qa-sessions](https://github.com/jensenmd/claude-code-qa-sessions) | Claude Code applied to existing QA repos — agentic analysis, human-in-the-loop validation |
-| [pharmacy-spend-etl-qa](https://github.com/jensenmd/pharmacy-spend-etl-qa) | ETL pipeline validation, SQL-driven data integrity testing |
-| [qa-automation-showcase](https://github.com/jensenmd/qa-automation-showcase) | REST API testing, data validation, CI/CD integration |
-| [restful-booker-qa](https://github.com/jensenmd/restful-booker-qa) | Full-stack layered testing — API + UI automation |
-| [ai-qa-framework](https://github.com/jensenmd/ai-qa-framework) | AI-assisted test generation, human-in-the-loop validation |
-| [mapmyrun-quality-investigation](https://github.com/jensenmd/mapmyrun-quality-investigation) | Black-box mobile/GPS QA investigation — field testing, cross-signal analysis, evidence-bounded conclusions |
+| --- | --- |
+| [agentqa-orchestrator](https://github.com/jensenmd/agentqa-orchestrator) | Agentic code auditing with structured LLM output using Python, Gemini, Pydantic, and JSON |
+| [mapmyrun-quality-investigation](https://github.com/jensenmd/mapmyrun-quality-investigation) | Black-box mobile/GPS QA investigation — field testing, cross-signal analysis, and evidence-bounded conclusions |
+| [claude-code-qa-sessions](https://github.com/jensenmd/claude-code-qa-sessions) | Claude Code applied to existing QA repositories — agentic analysis with human-in-the-loop validation |
+| [pharmacy-spend-etl-qa](https://github.com/jensenmd/pharmacy-spend-etl-qa) | ETL pipeline validation and SQL-driven data integrity testing modeled after enterprise healthcare analytics work |
+| [qa-automation-showcase](https://github.com/jensenmd/qa-automation-showcase) | REST API testing, data validation, and CI/CD integration |
+| [restful-booker-qa](https://github.com/jensenmd/restful-booker-qa) | Full-stack layered testing — API + UI automation with Playwright and Postman/Newman |
+| [ai-qa-framework](https://github.com/jensenmd/ai-qa-framework) | AI-assisted test generation with human review and pytest execution |
+
+---
+
+## How the Portfolio Fits Together
+
+The projects are intentionally different rather than seven variations of the same automation demo.
+
+- **API & backend quality:** REST API validation, authentication, business rules, and automated regression
+- **Data quality:** ETL pipelines, SQL reconciliation, structured validation, and healthcare-style analytics
+- **UI automation:** browser-based end-to-end testing with Playwright
+- **AI-assisted QA:** test generation, repository analysis, structured LLM output, and human-in-the-loop validation
+- **Exploratory investigation:** real-world mobile, GPS, sensor, and workout-record integrity testing
+- **CI/CD:** repeatable automated execution through GitHub Actions
+
+The common thread is using automation and evidence to understand whether a system is behaving correctly — and being explicit about what the available evidence does and does not prove.
 
 ---
 
 ## Portfolio Visual Key
 
-Each project graphic uses a consistent visual encoding system. Here's how to read it:
+Each project graphic uses a consistent visual encoding system. This section explains how to read it.
 
 ### Bar Color — Testing Layer
-Each bar color represents a distinct testing layer present in the project:
 
 | Color | Testing Layer |
-|---|---|
+| --- | --- |
 | 🔵 Blue | API / Backend / Services |
 | 🟢 Green | Data / ETL / SQL |
 | 🟠 Orange | UI / Frontend / Browser |
 | 🟣 Purple | Infrastructure / Platform |
-| 🟡 Gold | AI — always reserved for AI involvement |
-| 💠 Cyan | Profile banner only — never on individual projects |
+| 🟡 Gold | AI involvement |
+| 💠 Cyan | Profile banner only |
 
-### Bar Height & Width — Depth and Coverage
-- **Bar height** = depth of testing within that layer (taller = deeper validation, more edge cases, business rules)
-- **Bar width** = volume of test coverage (wider = more tests, broader coverage)
-- **Number of bars** = number of distinct system layers under test
+### Bar Height & Width
+
+- **Bar height** = depth of testing within that layer
+- **Bar width** = volume of test coverage
+- **Number of bars** = number of distinct system layers represented
 
 ### The 6 Dots — Testing Disciplines Present
+
 | Position | Discipline |
-|---|---|
+| --- | --- |
 | Dot 1 | Manual / functional testing |
 | Dot 2 | API testing |
 | Dot 3 | Data validation |
 | Dot 4 | UI automation |
 | Dot 5 | CI/CD integration |
-| Dot 6 | AI involved (triggers AI ring) |
+| Dot 6 | AI involved |
 
-A filled dot means that discipline is present. Dot 6 filled means an AI ring will appear alongside the graphic.
+A filled dot means that discipline is present.
 
 ### AI Ring — AI Involvement Level
-When Dot 6 is filled, an AI ring appears indicating the depth of AI involvement:
 
 | Ring Level | Meaning |
-|---|---|
-| Level 1 — outer ring | AI assisted development |
-| Level 2 — second ring | AI in live testing workflow |
-| Level 3 — third ring | AI as autonomous agent (Claude Code) |
-| Level 4 — fourth ring | AI orchestrating AI |
-| Level 5 — core | Fully autonomous pipeline |
+| --- | --- |
+| Level 1 | AI-assisted development |
+| Level 2 | AI in live testing workflow |
+| Level 3 | Agentic AI workflow |
+| Level 4 | AI-orchestrated workflow |
+| Level 5 | Fully autonomous pipeline |
 
-Rings fill from outside in — AI moving toward the core. Hollow rings represent future levels not yet reached.
+Rings fill from outside in. Hollow rings represent levels not currently demonstrated.
