@@ -2,11 +2,11 @@
 
 # Michael D. Jensen — Senior QA Engineer
 
-15+ years of enterprise software testing experience across healthcare IT, financial systems, telecommunications, and cybersecurity. Deep background in REST API validation, ETL pipeline testing, SQL-based data integrity verification, and full-stack manual testing in Agile environments.
+15+ years of enterprise software quality experience across healthcare IT, financial systems, telecommunications, and cybersecurity. Deep background in REST API testing, ETL and data validation, SQL-driven verification, requirements analysis, exploratory testing, and end-to-end system quality.
 
-Currently re-entering the field with active focus on Python/pytest automation, Playwright UI testing, and CI/CD-integrated quality practices.
+Currently building hands-on quality engineering projects with Python/pytest, Playwright, Postman/Newman, GitHub Actions, and AI-assisted QA workflows. My portfolio spans API automation, ETL/data validation, UI testing, agentic QA analysis, and black-box mobile/GPS investigation.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/michaeljensen-qa/) | 🐙 [GitHub Profile](https://github.com/jensenmd) | 📧 [jensen.md@gmail.com](mailto:jensen.md@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/michaeljensen-qa/) | 🐙 [GitHub Profile](https://github.com/jensenmd) | 📧 jensen.md@gmail.com
 
 ---
 
