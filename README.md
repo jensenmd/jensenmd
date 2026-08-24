@@ -19,6 +19,7 @@ Currently re-entering the field with active focus on Python/pytest automation, P
 | [qa-automation-showcase](https://github.com/jensenmd/qa-automation-showcase) | REST API testing, data validation, CI/CD integration |
 | [restful-booker-qa](https://github.com/jensenmd/restful-booker-qa) | Full-stack layered testing — API + UI automation |
 | [ai-qa-framework](https://github.com/jensenmd/ai-qa-framework) | AI-assisted test generation, human-in-the-loop validation |
+| [mapmyrun-quality-investigation](https://github.com/jensenmd/mapmyrun-quality-investigation) | Black-box mobile/GPS QA investigation — field testing, cross-signal analysis, evidence-bounded conclusions |
 
 ---
 
