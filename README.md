@@ -2,7 +2,7 @@
 
 15+ years of enterprise software quality experience across healthcare IT, financial systems, telecommunications, and cybersecurity. Deep background in REST API testing, ETL and data validation, SQL-driven verification, requirements analysis, exploratory testing, and end-to-end system quality.
 
-Currently building hands-on quality engineering projects with Python/pytest, Playwright, Postman/Newman, GitHub Actions, and AI-assisted QA workflows. My portfolio spans API automation, ETL/data validation, UI testing, agentic QA analysis, structured LLM workflows, and black-box mobile/GPS investigation.
+I build hands-on quality engineering projects spanning API automation, ETL and data validation, browser and mobile UI testing, exploratory investigation, CI/CD, and practical uses of AI in QA.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/michaeljensen-qa/) | 🐙 [GitHub Profile](https://github.com/jensenmd) | 📧 jensen.md@gmail.com
 
@@ -12,23 +12,25 @@ Currently building hands-on quality engineering projects with Python/pytest, Pla
 
 | Project | What It Demonstrates |
 | --- | --- |
-| [agentqa-orchestrator](https://github.com/jensenmd/agentqa-orchestrator) | Agentic code auditing with structured LLM output using Python, Gemini, Pydantic, and JSON |
-| [mapmyrun-quality-investigation](https://github.com/jensenmd/mapmyrun-quality-investigation) | Black-box mobile/GPS QA investigation — field testing, cross-signal analysis, and evidence-bounded conclusions |
-| [claude-code-qa-sessions](https://github.com/jensenmd/claude-code-qa-sessions) | Claude Code applied to existing QA repositories — agentic analysis with human-in-the-loop validation |
-| [pharmacy-spend-etl-qa](https://github.com/jensenmd/pharmacy-spend-etl-qa) | ETL pipeline validation and SQL-driven data integrity testing modeled after enterprise healthcare analytics work |
-| [qa-automation-showcase](https://github.com/jensenmd/qa-automation-showcase) | REST API testing, data validation, and CI/CD integration |
-| [restful-booker-qa](https://github.com/jensenmd/restful-booker-qa) | Full-stack layered testing — API + UI automation with Playwright and Postman/Newman |
-| [ai-qa-framework](https://github.com/jensenmd/ai-qa-framework) | AI-assisted test generation with human review and pytest execution |
+| [android-appium-wdio-poc](https://github.com/jensenmd/android-appium-wdio-poc) | Native Android UI automation proof of concept using Appium, WebdriverIO, TypeScript, and UiAutomator2 |
+| [mapmyrun-quality-investigation](https://github.com/jensenmd/mapmyrun-quality-investigation) | Black-box mobile and GPS quality investigation using field evidence and bounded conclusions |
+| [restful-booker-qa](https://github.com/jensenmd/restful-booker-qa) | Layered API and UI automation using Postman, Newman, Playwright, and GitHub Actions |
+| [pharmacy-spend-etl-qa](https://github.com/jensenmd/pharmacy-spend-etl-qa) | ETL pipeline and SQL-driven data-integrity validation modeled after healthcare analytics work |
+| [qa-automation-showcase](https://github.com/jensenmd/qa-automation-showcase) | REST API testing, data validation, and CI/CD-integrated automation |
+| [ai-qa-framework](https://github.com/jensenmd/ai-qa-framework) | Human-reviewed AI-assisted test generation with structured cases and pytest execution |
+| [claude-code-qa-sessions](https://github.com/jensenmd/claude-code-qa-sessions) | Agentic analysis of existing QA repositories with human review and targeted implementation |
+| [agentqa-orchestrator](https://github.com/jensenmd/agentqa-orchestrator) | Structured agentic code auditing using Python, Pydantic, Gemini, and JSON |
 
 ---
 
 ## How the Portfolio Fits Together
 
-The projects are intentionally different rather than seven variations of the same automation demo.
+The projects are intentionally different rather than variations of the same automation demo.
 
 - **API & backend quality:** REST API validation, authentication, business rules, and automated regression
 - **Data quality:** ETL pipelines, SQL reconciliation, structured validation, and healthcare-style analytics
 - **UI automation:** browser-based end-to-end testing with Playwright
+- **Mobile automation:** focused native Android UI automation with Appium, WebdriverIO, TypeScript, and UiAutomator2
 - **AI-assisted QA:** test generation, repository analysis, structured LLM output, and human-in-the-loop validation
 - **Exploratory investigation:** real-world mobile, GPS, sensor, and workout-record integrity testing
 - **CI/CD:** repeatable automated execution through GitHub Actions
